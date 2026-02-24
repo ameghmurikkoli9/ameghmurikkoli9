@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🔭 Building modern interactive web experiences
 - 🌱 Currently mastering advanced React & animations
-- 💬 Ask me about React, JavaScript, CSS, UI Design
+- 💬 Curious about animations, clean code, and scalable frontend? I’m your guy
 - 📫 Reach me at: iamamegh04@gmail.com
 
 ---
